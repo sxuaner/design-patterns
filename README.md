@@ -1,4 +1,7 @@
- This project stored design patterns implemented in different programming languages.
+This project stored design patterns implemented in different programming languages.
+
+Java file naming convention : namePattern-type.java
+
 Target language: Java, Python
 
 
